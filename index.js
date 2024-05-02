@@ -13,8 +13,8 @@ const users = [
   },
   {
     id: "2",
-    username: "aditansh",
-    password: "aditansh@07",
+    username: "diaz",
+    password: "diaz07",
     isAdmin: false,
   },
 ];
